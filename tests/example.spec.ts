@@ -5,7 +5,7 @@ test('has title', async ({ page }) => {
 
   // Expect a title "to contain" a substring.
   await expect(page).toHaveTitle(/Playwright/);
-  console.log("Valid login test added by Team Member 2-new");
+  console.log("Valid login test added by Team Member 1- new-new");
 });
 
 test('get started link', async ({ page }) => {
